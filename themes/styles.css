@@ -1,0 +1,73 @@
+/** MAIN STYLES **/
+body{margin:0; padding:0;font-family:"Verdana";font-size:11px; color:#333;background: #E6E3E3 ;}
+.block{width:1200px;margin:0 auto;}
+.clr{clear:both;}
+.rgt{float:right;}
+.lft{float:left;}
+
+
+#page{background: #fff;}
+
+#header{height:80px;border-bottom:1px solid #dedede;padding:50px;}
+#body{padding:20px 10px}
+#footer{height:50px;border-top:1px solid #dedede;margin-top:20px; padding:50px  }
+.filter{float:right;margin:10px 0;}
+
+
+/** TABLE STYES **/
+table{}
+th{border-spacing:0;padding:5px;border:1px solid #eee;}
+td{border-spacing:0;padding:5px;border:1px solid #eee;}
+.row1{background: #dedede;}
+
+.view th{text-align: left;padding:4px;}
+.view td{font-size:12px;padding:4px;}
+
+/** Article Title **/
+h1.article-title{text-transform: capitalize;}
+
+span.margin-left5{ margin-left: 5px;}
+
+
+#diverror {font-size: 16px;
+color:#F00;
+ }
+
+ /** title Font **/
+ #title {color:navy;}
+
+/*** CREATE FORM ***/
+form label{display:block;font-weight:bold;color:#666;padding:5px 0;}
+form input[type=text]{display:block;line-height:25px;height:25px;width:200px;border:1px solid #666;padding:3px 10px;}
+form input[type=text]:active{}
+form input[type=text]:focus{outline:0;box-shadow:0px 0px 3px #333;}
+form input[type=file]{display:block;}
+
+input[name=qty1],
+input[name=qty2],
+input[name=qty3],
+input[name=qty4],
+input[name=qty5],
+input[name=qty6],
+input[name=qty7],
+input[name=qty8],
+input[name=qty9],
+input[name=qty10],
+input[name=qty11],
+input[name=qty12],
+input[name=qty13]{width:20px;}
+input[name=article_id]{width: 70px;}
+input[name=inserteddate]{width: 80px;}
+
+/** SUMMARY VIEW **/
+.status-2 td{background:#F9F}
+
+/** Create Invoice **/
+#createInvoiceTable{border-spacing:0;border-collapse:collapse;}
+#createInvoiceTable td{padding:0;}
+#createInvoiceTable input[type=text]{width:100px;height:22px;}
+
+
+@media print{
+    .noprint{display:none}
+}

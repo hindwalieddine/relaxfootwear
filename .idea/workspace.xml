@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63c5b6f0-7207-4004-b060-4a52523c969a" name="Default" comment="initial commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/Relax.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1100011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1101018.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1101057.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1101213.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1102014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1102056.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1103007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1103055.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1104077.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1104771.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/7204417.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/9341645.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/9638435.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/fonts/texb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/images/shoes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/images/jquery_32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/images/jqueryui_32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/images/sizzlejs_32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/images/transparent_1x1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/images/ui-anim_basic_16x16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/images/calendar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/images/high_tatras.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/images/high_tatras2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/images/high_tatras2_min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/images/high_tatras3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/images/high_tatras3_min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/images/high_tatras4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/images/high_tatras4_min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/images/high_tatras_min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/images/calendar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/images/demo-config-on-tile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/images/demo-config-on.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/images/demo-spindown-closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/images/demo-spindown-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/images/icon-docs-info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/images/pbar-ani.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/position/images/earth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/position/images/flight.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/position/images/rocket.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/progressbar/images/pbar-ani.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/images/st-stephens.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/images/tower-bridge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/appflowchart.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/ci_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/ci_logo_flame.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/ci_quick_ref.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/codeigniter_1.7.1_helper_reference.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/codeigniter_1.7.1_helper_reference.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/codeigniter_1.7.1_library_reference.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/codeigniter_1.7.1_library_reference.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/file.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/folder.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/nav_bg_darker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/nav_separator_darker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/nav_toggle_darker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/reactor-bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/images/transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/relax.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/cache/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/doctypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/foreign_chars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/migration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/mimes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/routes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/smileys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/user_agents.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/ajax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/articles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/invoices.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/reports.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/stocks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/suppliers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/welcome.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/core/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/hooks/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/logs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/articles_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/invoices_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/stocks_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/suppliers_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/third_party/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/articles/confirmdelete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/articles/create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/articles/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/articles/failure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/articles/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/articles/success.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/articles/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/invoices/create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/invoices/failure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/invoices/invoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/invoices/invoiceslist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/invoices/success.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/invoices/transfersummary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/reports/expedier_articles_by_date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/reports/inserted_articles_by_date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/reports/sales_by_article.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/reports/transfer_articles_by_date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/Old summary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/confirmdelete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/confirmexpdelete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/confirminsertdelete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/confirmtransdelete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/editexp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/edittrans.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/expedier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/failure_expedier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/failure_insert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/failure_insert_no_article.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/failure_insert_same_article.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/failure_transfert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/insert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/success_insert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/success_transfer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/summary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/transfer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/stocks/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/suppliers/confirmdelete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/suppliers/create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/suppliers/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/suppliers/failure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/suppliers/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/suppliers/success.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/suppliers/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/templates/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/templates/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/upload/main_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/upload/success_msg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/upload/view_pictures.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/welcome_message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/db/14-07-2013.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/db/14-07-20132.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/db/schema1.0.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/relax_database.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Benchmark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/CodeIgniter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Exceptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Router.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Security.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/URI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/Utf8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/core/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_active_rec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/DB_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_forge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/database/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/fonts/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/array_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/captcha_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/cookie_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/date_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/directory_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/download_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/email_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/file_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/form_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/html_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/inflector_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/language_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/number_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/path_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/security_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/smiley_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/string_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/text_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/typography_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/url_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/helpers/xml_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/calendar_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/date_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/db_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/email_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/form_validation_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/ftp_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/imglib_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/migration_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/number_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/profiler_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/unit_test_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/english/upload_lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/language/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_apc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_dummy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_memcached.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Cart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Driver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Encrypt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Form_validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Ftp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Image_lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Javascript.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Migration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Sha1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Trackback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Typography.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Unit_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/User_agent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Xmlrpcs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/Zip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/libraries/javascript/Jquery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/AUTHORS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/accordion/collapsible.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/accordion/custom-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/accordion/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/accordion/fillspace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/accordion/hoverintent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/accordion/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/accordion/no-auto-height.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/accordion/sortable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/combobox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/custom-data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/folding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/london.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/maxheight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/multiple-remote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/remote-jsonp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/remote-with-cache.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/remote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/autocomplete/xml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/button/checkbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/button/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/button/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/button/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/button/radio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/button/splitbutton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/button/toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/alt-field.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/animation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/buttonbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/date-formats.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/date-range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/dropdown-month-year.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/icon-trigger.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/localization.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/min-max.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/multiple-calendars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/other-months.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/datepicker/show-week.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/demos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/dialog/animated.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/dialog/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/dialog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/dialog/modal-confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/dialog/modal-form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/dialog/modal-message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/dialog/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/constrain-movement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/cursor-style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/delay-start.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/handle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/revert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/scroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/snap-to.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/sortable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/draggable/visual-feedback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/accepted-elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/photo-manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/propagation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/revert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/shopping-cart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/droppable/visual-feedback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/effect/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/effect/easing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/effect/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/menu/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/menu/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/menu/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/position/cycler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/position/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/position/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/progressbar/animated.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/progressbar/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/progressbar/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/progressbar/resize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/animate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/aspect-ratio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/constrain-area.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/delay-start.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/max-min.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/snap-to-grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/synchronous-resize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/textarea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/resizable/visual-feedback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/selectable/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/selectable/display-grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/selectable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/selectable/serialize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/colorpicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/hotelrooms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/multiple-vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/range-vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/rangemax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/rangemin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/side-scroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/slider-vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/slider/steps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/sortable/connect-lists-through-tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/sortable/connect-lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/sortable/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/sortable/delay-start.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/sortable/display-grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/sortable/empty-lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/sortable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/sortable/items.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/sortable/placeholder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/sortable/portlets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/spinner/currency.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/spinner/decimal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/spinner/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/spinner/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/spinner/latlong.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/spinner/overflow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/spinner/time.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/ajax/content1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/ajax/content2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/ajax/content3-slow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/ajax/content4-broken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/bottom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/collapsible.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/manipulation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/mouseover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/sortable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tabs/vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/ajax/content1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/ajax/content2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/custom-animation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/custom-content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/custom-style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/tracking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/tooltip/video-player.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/widget/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/demos/widget/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/autocomplete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/blind-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/bounce-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/clip-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/datepicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/draggable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/drop-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/droppable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/explode-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/fade-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/fold-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/highlight-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/jQuery.widget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/mouse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/progressbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/puff-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/pulsate-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/resizable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/scale-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/selectable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/shake-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/size-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/slide-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/sortable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/spinner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/tooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/docs/transfer-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/external/globalize.culture.de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/external/globalize.culture.ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/external/globalize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/external/jquery.bgiframe-2.1.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/external/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/external/jquery.metadata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/external/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/external/jshint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/external/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/external/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/grunt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/jquery-1.8.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.resizable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.selectable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/jquery.ui.tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.accordion.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.autocomplete.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.core.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.datepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.dialog.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.progressbar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.resizable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.selectable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.slider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.spinner.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.tabs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/base/minified/jquery.ui.tooltip.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.resizable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.selectable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/jquery.ui.tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.accordion.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.autocomplete.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.core.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.datepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.dialog.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.progressbar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.resizable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.selectable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.slider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.spinner.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.tabs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/themes/smoothness/minified/jquery.ui.tooltip.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.accordion.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.autocomplete.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.button.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.core.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.datepicker.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.dialog.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.draggable.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.droppable.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-blind.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-bounce.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-clip.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-drop.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-explode.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-fade.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-fold.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-highlight.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-pulsate.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-scale.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-shake.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-slide.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect-transfer.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.effect.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.menu.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.mouse.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.position.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.progressbar.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.resizable.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.selectable.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.slider.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.sortable.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.spinner.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.tabs.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.tooltip.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui.widget.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery-ui-i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ar-DZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-cy-GB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-en-AU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-en-GB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-en-NZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-fr-CH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-hy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-nl-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-rm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sr-SR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-tj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-zh-HK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/i18n/jquery.ui.datepicker-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery-ui.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.autocomplete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-blind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-bounce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-clip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-drop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-explode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-fade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-pulsate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-shake.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect-transfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.effect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.selectable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/jquery.ui.widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery-ui-i18n.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-af.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ar-DZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-az.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-bg.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-bs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ca.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-cs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-cy-GB.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-da.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-de.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-el.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-AU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-GB.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-NZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-eo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-es.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-et.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-eu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fa.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fr-CH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-gl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-he.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hy.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-id.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-is.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-it.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ja.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ka.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-kk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-km.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ko.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lb.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lt.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-mk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ml.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ms.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nl-BE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-no.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pt-BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pt.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-rm.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ru.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sq.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sr-SR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ta.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-th.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-tj.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-tr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-uk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-vi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-HK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery-ui.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.accordion.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.autocomplete.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.button.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.core.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.datepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.dialog.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.draggable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.droppable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-blind.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-bounce.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-clip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-drop.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-explode.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-fade.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-fold.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-highlight.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-pulsate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-scale.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-shake.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-slide.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect-transfer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.effect.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.menu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.mouse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.position.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.progressbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.resizable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.selectable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.slider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.sortable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.spinner.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.tabs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/development-bundle/ui/minified/jquery.ui.widget.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/js/jquery-1.8.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/js/jquery-ui-1.9.1.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery-ui-1.9.1.custom/jquery-ui-1.9.1.custom/js/jquery-ui-1.9.1.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/jquery-ui-1.9.1.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/smoothness/jquery-ui-1.9.1.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/changelog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/active_record.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/caching.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/call_function.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/configuration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/connecting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/fields.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/forge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/helpers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/queries.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/results.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/table_data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/transactions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/database/utilities.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/doc_style/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/doc_style/template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/alternative_php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/ancillary_classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/autoloader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/caching.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/cli.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/common_functions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/controllers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/core_classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/creating_drivers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/creating_libraries.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/credits.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/drivers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/environments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/errors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/helpers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/hooks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/libraries.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/managing_apps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/models.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/profiling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/quick_reference.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/requirements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/reserved_names.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/routing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/security.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/styleguide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/urls.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/general/views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/array_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/captcha_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/cookie_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/date_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/directory_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/download_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/email_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/file_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/form_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/html_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/inflector_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/language_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/number_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/path_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/security_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/smiley_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/string_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/text_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/typography_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/url_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/helpers/xml_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/downloads.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/troubleshooting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_120.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_130.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_131.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_132.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_133.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_140.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_141.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_150.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_152.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_153.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_154.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_160.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_161.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_162.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_163.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_170.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_171.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_172.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_200.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_201.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_202.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_203.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_210.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrade_b11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/installation/upgrading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/benchmark.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/caching.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/cart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/config.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/email.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/encryption.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/file_uploading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/form_validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/ftp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/image_lib.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/javascript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/language.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/loader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/migration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/output.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/pagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/parser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/security.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/sessions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/trackback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/unit_testing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/uri.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/user_agent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/xmlrpc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/libraries/zip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/nav/hacks.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/nav/moo.fx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/nav/nav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/nav/prototype.lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/nav/user_guide_menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/appflow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/at_a_glance.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/cheatsheets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/features.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/getting_started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/goals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/overview/mvc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/toc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/conclusion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/create_news_items.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/hard_coded_pages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/news_section.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/tutorial/static_pages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user_guide/userguide.css" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1122">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1924" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="relax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="relax" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63c5b6f0-7207-4004-b060-4a52523c969a" name="Default" comment="" />
+      <created>1510699358625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510699358625</updated>
+      <workItem from="1510699360166" duration="1366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1366000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1924" height="1048" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
